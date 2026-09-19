@@ -18,8 +18,7 @@ function App() {
         <div>
           <h1>Satyam's Project</h1>
           <p>
-            Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
-          </p>
+           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab, obcaecati?
         </div>
         <button
           type="button"
