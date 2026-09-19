@@ -17,8 +17,9 @@ function App() {
         </div>
         <div>
           <h1>Satyam's Project</h1>
-          <p>
-           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab, obcaecati?
+         <p>
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi, officia.
+         </p>
         </div>
         <button
           type="button"
